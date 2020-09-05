@@ -1,0 +1,20 @@
+[
+  {
+    "name": "google",
+    "host": "google.com",
+    "port": 80,
+    "network": "tcp",
+    "repeat": 3,
+    "timeout": 1000,
+    "peroid": 10000
+  },
+  {
+    "name": "localhost",
+    "host": "127.0.0.1",
+    "port": 80,
+    "network": "tcp",
+    "repeat": 3,
+    "timeout": 1000,
+    "peroid": 10000
+  }
+]
