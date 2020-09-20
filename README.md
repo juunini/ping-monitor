@@ -12,7 +12,7 @@ LINE_ACCESS_KEY=cavMa*****wkGv532ei******sEzK9dfKFGN****nXF
 [
   {
     "name": "localhost 80 port",
-    "host": "google.com",
+    "host": "localhost",
     "port": 80,
     "network": "tcp",
     "repeat": 3,
